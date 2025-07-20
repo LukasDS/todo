@@ -1,0 +1,9 @@
+<main class="main">
+    <ul>
+        @for (todo of todos; track $index) {
+            <li>{{todo}}</li>
+        }
+    </ul>
+</main>
+
+<router-outlet />
