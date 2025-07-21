@@ -15,7 +15,7 @@ This project consists of several containerized services:
   - Frontend interacts with the backend via REST/HTTPS.
   - Internal service communication is handled via gRPC/TLS.
 
-## Architecture Diagram
+## Architecture (C4 Container) Diagram
 ![Container Architecture](todo_container_diagram.png)
 
 ## License
