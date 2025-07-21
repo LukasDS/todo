@@ -16,7 +16,7 @@ This project consists of several containerized services:
   - Internal service communication is handled via gRPC/TLS.
 
 ## Architecture Diagram
-![Container Architecture](todo_container_diagram.jpg)
+![Container Architecture](todo_container_diagram.png)
 
 ## License
 This project is licensed under the MIT License.
