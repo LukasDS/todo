@@ -6,7 +6,7 @@ A modern, fullstack ToDo management application with microservice architecture u
 
 This project consists of several containerized services:
 
-- **Angular Frontend:** Delivers a rich single-page experience using the latest Angular features (Signals, Standalone Components) for responsive and reactive UI.
+- **Angular Frontend:** A single-page experience using the latest Angular features (Signals, Standalone Components) for responsive and reactive UI.
 - **API Gateway:** Acts as an entry point for all client requests and distributes them among backend microservices using Spring Boot.
 - **User Service:** Handles user registration, authentication, and management.
 - **ToDo Service:** Manages ToDo-related business logic and persistence.
